@@ -4,5 +4,5 @@ It uses a vector to store the passenger information in a structured manner. The 
 for users to interact with the system and perform the desired actions
 
 Group Member
-Natnael Agenagnew
+Natnael Agenagnew and
 Natnael 
